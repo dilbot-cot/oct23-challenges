@@ -1,0 +1,12 @@
+{
+  "name": "oct23-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c1_rotateString.js",
+  "scripts": {
+    "start": "node ./c6_moveZeroes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
